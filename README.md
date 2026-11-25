@@ -1,4 +1,4 @@
-# Portfolio studio Dede
+# Portfolio Dede
 
 Statische website (HTML/CSS, geen build nodig om te hosten). Pagina's: `index.html`, `werk.html` en 15 projectpagina's in `projects/`.
 
