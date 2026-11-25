@@ -1,0 +1,115 @@
+/* Styleguide Dede — Geist, #fffff7 / #fde8ff / #f6f6f6, dot #fcd5ff */
+:root{--bg:#fffff7;--pink:#fde8ff;--dot:#fcd5ff;--grey:#f6f6f6;--ink:#0f0f0f;--ink-70:rgba(15,15,15,.7);--muted:#727272;--pad:clamp(20px,5.556vw,80px)}
+*,*::before,*::after{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 16px/24px Geist,system-ui,-apple-system,"Segoe UI",sans-serif;letter-spacing:-.02em;-webkit-font-smoothing:antialiased}
+img{display:block;max-width:100%;height:auto}
+a{color:inherit;text-decoration:none}
+h1,h2,h3,h4,p{margin:0}
+.wrap{max-width:1440px;margin:0 auto;padding:0 var(--pad)}
+.skip{position:absolute;left:-9999px}.skip:focus{left:16px;top:8px;background:var(--ink);color:#fff;padding:8px 12px;border-radius:8px;z-index:9}
+/* Typografie */
+.h1{font-weight:600;font-size:clamp(36px,3.611vw,52px);line-height:1.096;letter-spacing:-.03em}
+.h2{font-weight:600;font-size:clamp(24px,2.083vw,30px);line-height:1.067;letter-spacing:-.03em}
+.h3{font-weight:600;font-size:25px;line-height:20px}
+.h4{font-weight:600;font-size:20px;line-height:20px}
+.h5{font-size:18px;line-height:20px}
+.p{color:var(--ink-70)}
+.intro{font-size:18px;line-height:25px;color:var(--ink-70)}
+.small{font-size:15px;line-height:25px;color:var(--ink-70)}
+/* Navigatie */
+.site-header{padding-top:24px}
+.site-header .wrap{display:flex;justify-content:space-between;align-items:flex-start}
+.logo{display:block;margin:-9px 0 -20px -24px}.logo img{width:175px;height:auto;mix-blend-mode:multiply}
+.nav{display:flex;gap:40px;padding-top:24px}
+.nav a{position:relative;display:block}
+.nav a::after{content:"";position:absolute;left:50%;top:23px;width:4px;height:4px;margin-left:-2px;border-radius:50%;background:var(--dot);transform:scale(0);transition:transform .2s ease}
+.nav a:hover::after,.nav a[aria-current]::after{transform:scale(1)}
+.page-top{padding-top:clamp(72px,10.3vw,148px)}
+.page-top.has-back{padding-top:max(24px,calc(clamp(72px,10.3vw,148px) - 48px))}
+.back{display:inline-flex;align-items:center;gap:8px;margin-bottom:24px;font-weight:500;color:#000}
+.back svg{width:24px;height:24px;transition:transform .25s ease}
+.back:hover svg,.back:focus-visible svg{transform:translateX(-5px)}
+/* Knop */
+.btn{display:inline-flex;align-items:center;gap:14px;height:48px;padding:0 13px 0 18px;border:1px solid #000;border-radius:100px;font-weight:500;color:#000;white-space:nowrap}
+.btn svg{width:24px;height:24px;transition:transform .25s ease}
+.btn:hover svg,.btn:focus-visible svg{transform:translateX(5px)}
+/* Kaarten */
+.grid{display:grid;grid-template-columns:repeat(3,1fr);gap:21px 16px}
+.grid--home{row-gap:26px}
+.card{display:block}
+.thumb{display:block;aspect-ratio:416/380;border-radius:16px;overflow:hidden;background:var(--grey)}
+.thumb img{width:100%;height:100%;object-fit:cover;transition:transform .5s ease}
+.card:hover .thumb img{transform:scale(1.03)}
+.card .h4{margin-top:18px}.card .h5{margin-top:12px;color:var(--ink-70)}
+/* Home */
+.hero{display:grid;grid-template-columns:355px 650px;justify-content:space-between;align-items:start}
+.hero-img{display:block;aspect-ratio:650/760;width:100%;object-fit:cover;border-radius:24px;background:var(--grey);pointer-events:none}
+.hero-img::-webkit-media-controls{display:none!important}
+.work{margin-top:clamp(72px,9.6vw,138px);background:var(--pink);border-radius:32px;padding:95px 0 91px}
+.work-head{display:flex;justify-content:space-between;align-items:flex-end;margin:14px 0 55px}
+.work-head+.grid{margin:0}
+.services{padding-top:clamp(72px,9vw,142px)}
+.services-head{display:grid;grid-template-columns:1fr 1fr;column-gap:16px;margin-top:14px;align-items:start}
+.services-head .p{padding-top:6px}
+.cards{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-top:73px}
+.svc{display:flex;flex-direction:column;justify-content:space-between;min-height:328px;padding:19px 24px 20px;background:var(--grey);border-radius:20px}
+.svc img{width:64px;height:64px}.svc .h4{margin-bottom:13px}
+.about{display:grid;grid-template-columns:502px 524px;justify-content:space-between;margin-top:clamp(72px,10vw,142px)}
+.about img{width:100%;aspect-ratio:502/560;object-fit:cover;border-radius:24px}
+.about-text{display:flex;flex-direction:column;justify-content:space-between;gap:32px}
+.about-text .h1{margin-top:12px}.about-text p+p{margin-top:24px}
+/* Werk + project */
+.crumbs{display:flex;align-items:center;gap:5px;margin-bottom:47px;color:var(--muted)}
+.crumbs a{color:var(--muted)}.crumbs b{display:flex;align-items:center;gap:5px;font-weight:400;color:#000}
+.crumbs b::before{content:"";width:4px;height:4px;border-radius:50%;background:var(--dot);margin-left:5px}
+.crumbs.solo{color:#000}
+.p-hero{display:grid;grid-template-columns:524px 648px;justify-content:space-between;align-items:start}
+.p-text{display:flex;flex-direction:column;min-height:523px}
+.p-text .intro{margin-top:49px}.p-text .small{margin-top:auto;padding-bottom:29px}
+.p-hero>img{width:100%;aspect-ratio:648/523;object-fit:cover;border-radius:24px}
+.gallery{display:grid;gap:50px;margin-top:45px}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:65px}.row.full{grid-template-columns:1fr}
+.gallery img{width:100%;border-radius:24px}.gallery img.bd{border:1px solid #707070}
+/* Footer */
+.footer{margin-top:clamp(72px,6.7vw,96px);background:var(--pink);border-radius:32px 32px 0 0;padding:69px 0 65px}
+.footer .wrap{display:flex;justify-content:space-between;align-items:flex-end;gap:24px 40px;flex-wrap:wrap}
+.footer .h1{margin-top:7px}
+.mail{font-weight:400;font-size:clamp(22px,3.611vw,52px);line-height:1.096;letter-spacing:-.03em;overflow-wrap:anywhere}
+.mail:hover{text-decoration:underline;text-underline-offset:6px;text-decoration-thickness:1px}
+.home .footer{margin-top:clamp(72px,10.7vw,154px)}
+a:focus-visible{outline:2px solid var(--ink);outline-offset:4px;border-radius:4px}
+/* Responsive */
+@media (max-width:1100px){
+ .grid{grid-template-columns:repeat(2,1fr)}.cards{grid-template-columns:repeat(2,1fr)}
+ .hero,.p-hero,.about{grid-template-columns:1fr;gap:40px}
+ .hero-img{aspect-ratio:4/3}.p-text{min-height:0}.p-text .small{margin-top:32px;padding:0}
+ .about img{max-height:640px}.about-text{gap:48px}
+ .services-head{grid-template-columns:1fr;gap:16px}.cards{margin-top:40px}
+}
+@media (max-width:640px){
+ .nav{gap:20px}.logo{margin:-7px 0 -15px -18px}.logo img{width:130px}
+ .grid,.cards{grid-template-columns:1fr}.row{grid-template-columns:1fr;gap:20px}.gallery{gap:20px}
+ .work{padding:64px 0}.work-head{flex-direction:column;align-items:flex-start;gap:24px}
+ .svc{min-height:260px}.crumbs{flex-wrap:wrap}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+/* Animaties (alleen met JS; zonder JS blijft alles gewoon zichtbaar) */
+@keyframes fd{from{opacity:0;transform:translateY(-10px)}}
+@keyframes pg{from{opacity:0}}
+.js body{animation:pg .6s ease both}
+.js .logo{animation:fd .9s cubic-bezier(.2,.7,.2,1) both}
+.js .nav a{animation:fd .8s cubic-bezier(.2,.7,.2,1) both}
+.js .nav a:nth-child(1){animation-delay:.15s}.js .nav a:nth-child(2){animation-delay:.23s}.js .nav a:nth-child(3){animation-delay:.31s}
+.js [data-r]:not([data-r=split]){opacity:0;transform:translateY(26px);transition:opacity .9s cubic-bezier(.2,.7,.2,1) var(--d,0s),transform .9s cubic-bezier(.2,.7,.2,1) var(--d,0s)}
+.js [data-r=img]:not(.in){transform:translateY(34px) scale(.98)}
+.js [data-r].in:not([data-r=split]){opacity:1;transform:none}
+.js [data-r].done:not([data-r=split]){transition:transform .5s cubic-bezier(.2,.7,.2,1),background-color .3s ease}
+.js [data-r=split] .w{display:inline-block;overflow:hidden;vertical-align:top;padding:.06em 0 .1em;margin:-.06em 0 -.1em}
+.js [data-r=split] .w>span{display:inline-block;transform:translateY(108%);transition:transform 1s cubic-bezier(.2,.7,.2,1) calc(var(--i)*.06s + var(--d,0s))}
+.js [data-r=split].in .w>span{transform:none}
+.svc{transition:background-color .3s ease}
+.svc:hover{background:var(--pink)}
+.js .svc.done:hover{transform:translateY(-4px)}
+.btn{transition:background-color .25s ease,color .25s ease}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}

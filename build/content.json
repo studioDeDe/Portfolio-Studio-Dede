@@ -1,0 +1,852 @@
+{
+ "projects": [
+  {
+   "slug": "avasco",
+   "name": "Avasco",
+   "title": "Avasco",
+   "intro": "Voor Avasco Industries ontwikkelde ik een overkoepelende branding die de drie divisies samenbrengt in één sterke, herkenbare merkidentiteit, met behoud van hun eigen karakter. Ik verzorgde de branding en de visuele uitwerking, met focus op een consistente en dynamische merkbeleving.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/avasco/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/avasco/01.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/avasco/02.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/avasco/03.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/avasco/04.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/avasco/05.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": true
+    },
+    {
+     "src": "assets/img/avasco/06.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/avasco/07.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/avasco.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": [
+    "Avasco Industries",
+    "Branding • Design"
+   ]
+  },
+  {
+   "slug": "kouture",
+   "name": "Kouture",
+   "title": "Kouture",
+   "intro": "Voor ION Kouture werkte ik de branding en visuele uitwerking van een exclusieve lifestylebrochure uit. Met een verfijnd creatief concept, stijlvolle vormgeving en oog voor detail vertaalde ik de architectuur en omgeving naar een unieke merkbeleving.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/kouture/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/kouture/01.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/kouture/02.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/kouture/03.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/kouture/04.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/kouture/05.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/kouture.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": [
+    "ION Kouture lifestylemagazine",
+    "Branding • Design"
+   ]
+  },
+  {
+   "slug": "nest-centrum",
+   "name": "Nest & Centrum",
+   "title": "Nest & Centrum",
+   "intro": "Voor Centrum & Nest ontwikkelde ik een overkoepelende branding voor twee scholen. Ik werkte de visuele identiteit uit en zorgde voor een consistente doorvertaling naar verschillende communicatiedragers, met oog voor de eigenheid van beide scholen.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/nest-centrum/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/nest-centrum/01.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/nest-centrum/02.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/nest-centrum/03.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/nest-centrum/04.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/nest-centrum/05.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/nest-centrum/06.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/nest-centrum/07.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/nest-centrum.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": [
+    "Nest & Centrum scholen",
+    "Branding • Design"
+   ]
+  },
+  {
+   "slug": "kastor-pollux",
+   "name": "Kastor & Pollux",
+   "title": "Kastor & Pollux",
+   "intro": "Voor Pollux ontwikkelde ik een volledige branding die aansluit bij de identiteit van Kastor, maar tegelijk een eigen karakter uitstraalt. Van het logo en de visuele identiteit tot patronen en diverse communicatiedragers: alles werd uitgewerkt rond de uniciteit van elk kind en het warme verhaal van de organisatie.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/kastor-pollux/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/kastor-pollux/01.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/kastor-pollux/02.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/kastor-pollux/03.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/kastor-pollux/04.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/kastor-pollux/05.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/kastor-pollux/06.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/kastor-pollux.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": null
+  },
+  {
+   "slug": "flamouri-gin",
+   "name": "Flamouri Gin",
+   "title": "Flamouri Gin",
+   "intro": "Voor Bistro Le Nord ontwikkelde ik de branding van Flamouri Gin, van de visuele identiteit tot het ontwerp van het flesetiket. Het embleem van het logo verwijst naar de lindebloesem, de letterlijke betekenis van het Griekse woord ‘Flamouri’. De verfijnde illustraties van de lindebloesem en -bladeren vormen samen met de Griekse roots de basis voor een karaktervolle en stijlvolle visuele identiteit die het verhaal achter de gin op een herkenbare manier tot leven brengt.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/flamouri-gin/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/flamouri-gin/01.webp",
+     "w": 2000,
+     "h": 1480,
+     "border": false
+    },
+    {
+     "src": "assets/img/flamouri-gin/02.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/flamouri-gin/03.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/flamouri-gin/04.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/flamouri-gin/05.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/flamouri-gin/06.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/flamouri-gin/07.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/flamouri-gin.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": [
+    "Flamouri Gin",
+    "Branding • Packaging"
+   ]
+  },
+  {
+   "slug": "twin-living",
+   "name": "Twin",
+   "title": "Twin Living",
+   "intro": "Voor een vastgoedproject aan de Franse kust ontwikkelde ik een branding gericht op tweedeverblijvers. Een stijlvolle visuele identiteit die het gevoel van zon, rust en exclusief wonen weerspiegelt.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/twin-living/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/twin-living/twin-drukwerk-sleutelhanger.webp",
+     "w": 1672,
+     "h": 941,
+     "border": false,
+     "alt": "Twin – drukwerk en sleutelhanger"
+    },
+    {
+     "src": "assets/img/twin-living/twin-website-mockup.webp",
+     "w": 1672,
+     "h": 941,
+     "border": false,
+     "alt": "Twin – website op tablet en desktop"
+    },
+    {
+     "src": "assets/img/twin-living/twin-visitekaartjes-interieur.webp",
+     "w": 1672,
+     "h": 941,
+     "border": false,
+     "alt": "Twin – visitekaartjes en interieur"
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/twin-living.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": [
+    "Twin living",
+    "Branding"
+   ]
+  },
+  {
+   "slug": "masters-of-industry",
+   "name": "Masters of Industry",
+   "title": "Masters of Industry",
+   "intro": "Voor Masters of Industry ontwikkelde ik een overkoepelende branding die drie gespecialiseerde bedrijven samenbrengt onder één sterke identiteit. Met een herkenbare visuele stijl creëerde ik een samenhangend merkverhaal dat de verschillende expertises verbindt, met behoud van hun eigenheid.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/masters-of-industry/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/masters-of-industry/01.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/masters-of-industry/02.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/masters-of-industry/03.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/masters-of-industry/04.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/masters-of-industry/05.webp",
+     "w": 2000,
+     "h": 780,
+     "border": false
+    },
+    {
+     "src": "assets/img/masters-of-industry/06.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/masters-of-industry.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": null
+  },
+  {
+   "slug": "verhelst-duurzaamheidsbrochure",
+   "name": "Verhelst duurzaamheidsbrochure",
+   "title": "Duurzaamheids&shy;brochure",
+   "intro": "Voor Verhelst ontwikkelde ik een duurzaamheidsbrochure die hun engagement voor een duurzamere toekomst in de kijker zet. Met een heldere visuele stijl en een doordachte opbouw bracht ik hun initiatieven, ambities en inspanningen samen in een toegankelijk en samenhangend verhaal.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/verhelst-duurzaamheidsbrochure/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/verhelst-duurzaamheidsbrochure/01.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/verhelst-duurzaamheidsbrochure/02.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/verhelst-duurzaamheidsbrochure/03.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/verhelst-duurzaamheidsbrochure.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": [
+    "Verhelst duurzaamheidsbrochure",
+    "Brochure design"
+   ]
+  },
+  {
+   "slug": "trouwdrukwerk",
+   "name": "Trouwuitnodiging Julie & Lieven",
+   "title": "Trouwdrukwerk",
+   "intro": "Voor het huwelijk van Julie & Lieven ontwierp ik een volledige collectie drukwerk, van uitnodiging en ceremonieboekje tot menukaart. Met handgetekende en geschilderde elementen creëerde ik een persoonlijke, samenhangende stijl die doorheen alle ontwerpen werd doorgetrokken.",
+   "client": null,
+   "hero": {
+    "src": "assets/img/trouwdrukwerk/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/trouwdrukwerk/01.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/trouwdrukwerk/02.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/trouwdrukwerk/03.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/trouwdrukwerk/04.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/trouwdrukwerk.webp",
+    "w": 900,
+    "h": 823
+   },
+   "card": null
+  },
+  {
+   "slug": "donckels",
+   "name": "Donckels",
+   "title": "Donckels",
+   "intro": "Voor Donckels consulting & advies ontwikkelde ik een herkenbare en professionele huisstijl die de identiteit van het bedrijf weerspiegelt. Deze branding vertaalde ik naar verschillende communicatiedragers, waaronder visitekaartjes, enveloppen en ander zakelijk drukwerk, voor een consistente uitstraling op elk contactmoment.",
+   "client": null,
+   "hero": {
+    "src": "assets/img/donckels/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/donckels/01.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/donckels/02.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/donckels/03.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/donckels/04.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/donckels/05.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/donckels/06.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/donckels/07.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/donckels.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": null
+  },
+  {
+   "slug": "sevenn",
+   "name": "Sevenn",
+   "title": "Sevenn",
+   "intro": "Voor Sevenn ontwikkelde ik een eigentijdse branding die data en analyse vertaalt naar een sterke, herkenbare merkidentiteit. Met een dynamisch logo, een uitgesproken kleurenpalet en een doordachte visuele stijl bracht ik de waarden van het merk tot leven. De huisstijl werd doorgetrokken naar verschillende toepassingen, waaronder visitekaartjes, rapporten en digitale dragers.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/sevenn/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/sevenn/01.webp",
+     "w": 2000,
+     "h": 825,
+     "border": false
+    },
+    {
+     "src": "assets/img/sevenn/02.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/sevenn/03.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/sevenn.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": null
+  },
+  {
+   "slug": "mats",
+   "name": "Mats",
+   "title": "Mats",
+   "intro": "Voor Mats ontwierp ik een nieuw logo waarin elektriciteit en sanitair op een subtiele manier samenkomen. De identiteit kreeg extra karakter dankzij een reeks zelfontworpen iconen die de verschillende diensten visueel herkenbaar maken. Van briefpapier en visitekaartjes tot stickers en camionettebelettering: elk detail kreeg een eigen plek binnen de huisstijl.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/mats/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/mats/01.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/mats/02.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/mats/03.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/mats/04.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/mats/05.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/mats/06.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/mats.webp",
+    "w": 900,
+    "h": 823
+   },
+   "card": null
+  },
+  {
+   "slug": "celciux",
+   "name": "Celciux",
+   "title": "Celciux",
+   "intro": "Voor Celciux ontwikkelde ik een visuele identiteit die de wereld van verwarming en koeling weerspiegelt. Het logo speelt met de letter X en symboliseert temperatuurverschillen: van verkoeling tot warmte. Met een contrasterend kleurenpalet van koelblauw en warm oranje kreeg het merk een herkenbare uitstraling.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/celciux/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/celciux/01.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/celciux/02.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/celciux/03.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/celciux/04.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/celciux.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": null
+  },
+  {
+   "slug": "geboortedrukwerk",
+   "name": "Geboortedrukwerk",
+   "title": "Geboortedrukwerk",
+   "intro": "Voor de geboorte van Eloïse ontwierp ik een verfijnde collectie geboortedrukwerk, met bijpassende stickers en doopsuikerverpakking. Het geboortekaartje werd gedrukt op Colorplan-papier in Candy Pink, met volledig afgeronde hoeken en de naam en bloemen uitgevoerd in diepdruk. Een zachte, tactiele afwerking die doorgetrokken werd in alle details.",
+   "client": null,
+   "hero": {
+    "src": "assets/img/geboortedrukwerk/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/geboortedrukwerk/01.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/geboortedrukwerk/02.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/geboortedrukwerk/03.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/geboortedrukwerk.webp",
+    "w": 900,
+    "h": 823
+   },
+   "card": null
+  },
+  {
+   "slug": "bloemmolens",
+   "name": "Bloemmolens",
+   "title": "Bloemmolens",
+   "intro": "Voor de Bloemmolens ontwierp ik een logo geïnspireerd op de karakteristieke architectuur en uiterlijke kenmerken van het historische gebouw. De herkenbare vormen vormden de basis voor een identiteit die het industriële erfgoed en de nieuwe toekomst van de site samenbrengt. Daarnaast verzorgde ik het ontwerp van een brochure die het unieke woonproject en zijn verhaal op een aantrekkelijke manier in beeld brengt.",
+   "client": "In opdracht van GBL Agency.",
+   "hero": {
+    "src": "assets/img/bloemmolens/hero.webp",
+    "w": 1296,
+    "h": 1046
+   },
+   "images": [
+    {
+     "src": "assets/img/bloemmolens/01.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/bloemmolens/02.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/bloemmolens/03.webp",
+     "w": 2000,
+     "h": 1161,
+     "border": false
+    },
+    {
+     "src": "assets/img/bloemmolens/04.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/bloemmolens/05.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/bloemmolens/06.webp",
+     "w": 1214,
+     "h": 1486,
+     "border": false
+    },
+    {
+     "src": "assets/img/bloemmolens/07.webp",
+     "w": 1216,
+     "h": 1486,
+     "border": false
+    }
+   ],
+   "thumb": {
+    "src": "assets/img/thumbs/bloemmolens.webp",
+    "w": 900,
+    "h": 822
+   },
+   "card": null
+  }
+ ],
+ "home": {
+  "hero": {
+   "src": "assets/img/home/hero.webp",
+   "w": 650,
+   "h": 750
+  },
+  "portrait": {
+   "src": "assets/img/home/portret.webp",
+   "w": 1004,
+   "h": 1110
+  },
+  "icons": [
+   {
+    "src": "assets/img/home/icoon-1.webp",
+    "w": 192,
+    "h": 192
+   },
+   {
+    "src": "assets/img/home/icoon-2.webp",
+    "w": 192,
+    "h": 192
+   },
+   {
+    "src": "assets/img/home/icoon-3.webp",
+    "w": 192,
+    "h": 192
+   },
+   {
+    "src": "assets/img/home/icoon-4.webp",
+    "w": 192,
+    "h": 192
+   }
+  ]
+ },
+ "werk_order": [
+  "kouture",
+  "nest-centrum",
+  "flamouri-gin",
+  "avasco",
+  "verhelst-duurzaamheidsbrochure",
+  "twin-living",
+  "donckels",
+  "celciux",
+  "sevenn",
+  "geboortedrukwerk",
+  "trouwdrukwerk",
+  "mats",
+  "masters-of-industry",
+  "bloemmolens",
+  "kastor-pollux"
+ ],
+ "home_order": [
+  "kouture",
+  "nest-centrum",
+  "flamouri-gin",
+  "avasco",
+  "verhelst-duurzaamheidsbrochure",
+  "twin-living"
+ ]
+}
